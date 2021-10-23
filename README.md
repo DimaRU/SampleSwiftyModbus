@@ -1,3 +1,4 @@
 # SampleSwiftyModbus
 
-A description of this package.
+Sample project for illustrate [SwityModbus library package](https://github.com/DimaRU/SwiftyModbus).
+
